@@ -1,0 +1,12 @@
+.cell {
+  border: 2px solid black;
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: -4px; }
+
+.green {
+  background-color: green; }
+
+.blue {
+  background-color: blue; }
